@@ -18,4 +18,28 @@ Hints:
 
 You'll need to link your HTML to a new stylesheet.
 Add some more content paragraphs if you like.
-Try to use the HTML structure as-is, but add some extra <div>s if you really need to.
+Try to use the HTML structure as-is, but add some extras if you really need to.
+
+```html
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+  <head>
+    <title>Headline Challenge</title>
+  </head>
+  <body>
+    <div id="wrap">
+      <div class="thepost">
+        <h1 class="posttitle">CSS Layout</h1>
+        <h2 class="dateheader">Monday, May 29, 2006</h1>
+        <p>
+          Wonder when CSS layout techniques will be less of an art and more of a science.  
+        </p>
+        <p class="postfooter">
+          <em>Posted by Robin.</em>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
+
+```
