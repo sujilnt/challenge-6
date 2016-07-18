@@ -43,5 +43,5 @@ Try to use the HTML structure as-is, but add some extras if you really need to.
 </html>
 
 ```
-Here is my url :  https://sujilnt.github.io/challenge-6/ 
+Here is my url :  https://sujilnt.github.io/challenge-6/ <br>
 I just designed the like blog post with articles , I used only html and css3 techniques .
